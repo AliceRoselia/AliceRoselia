@@ -1,7 +1,7 @@
 # AliceRoselia
 Game devs, if they be worthy, shall have the power of Notch.
 
-######Hi, I'm Alice!
+Hi, I'm Alice!
 Nice to meet you! I have popcorn!
 If I have to tell you one thing, it's my dream.
 My dream reaches far, sadly not my ability, not yet, just... almost!
