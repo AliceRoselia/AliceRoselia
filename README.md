@@ -1,14 +1,15 @@
-# AliceRoselia
-Game devs, if they be worthy, shall have the power of Notch.
+# AliceRoselia (Tarny)
+I was a puny one in a world doing all right,
+then I became a genius overnight.
+Never got to figure out how to do it right. 
+So much to learn and see.
 
-Hi, I'm Alice!
-Nice to meet you! I have popcorn!
-If I have to tell you one thing, it's my dream.
-My dream reaches far, sadly not my ability, not yet, just... almost!
+Up in my mind with new possibilities
+And the fights that just are too crazy
+A whole new chance, the world is waiting for me.
+I'm so excited to be.
 
-My planned projects
-- [Arceus.jl](https://github.com/AliceRoselia/Arceus.jl) An entity component/management system based on magic bitboard.
-- [Nebula.jl](https://github.com/AliceRoselia/Nebula.jl) A game engine built from the first principle with focus on world-building from its physics.
-- [Mavis.jl](https://github.com/AliceRoselia/Mavis.jl) A genius search framework. Searches for path, chess move, and more! Searches and find the magic solution.
+Tarny the great: I've got to know what being genius's all about. 
+Tarny the great: It's in my way, I've got to adventure every day. 
 
-Let's have fun together!
+Tarny. It's gonna be my time to show the world that I am Tarny the great.
